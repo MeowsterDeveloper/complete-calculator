@@ -6,7 +6,7 @@ This program is made for learning purpose.
 
 # Getting started
 
-- This Program runs on Windows Linux and Mac-Os by using python, install it via terminal or from thier oficial [website](https://www.python.org/downloads/)
+- This Program runs using python, install it via terminal or from thier oficial [website](https://www.python.org/downloads/)
 
 - You can use 2 modes int numbers and float numbers.
 
