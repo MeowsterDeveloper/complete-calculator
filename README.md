@@ -2,58 +2,54 @@
 
 This program is made for learning purpose.
 
+![screenshot](https://i.imgur.com/WwFfgaD.png)
+
 # Getting started
 
-<ul> 
-<li> This Program runs on Windows Linux and Mac-Os by using python, or all other python editors with the python version 3.x</li>
+- This Program runs on Windows Linux and Mac-Os by using python, install it via terminal or from thier oficial [website](https://www.python.org/downloads/)
 
-<li> The program is broken, your work is to find why, and learn how to fix it!.</li>
+- You can use 2 modes int numbers and float numbers.
 
-<li> You can use 2 modes int numbers and float numbers.</li>
+- It performs  Addition, Subtraction, Multiplication and Division only for two numbers in 2 modes decimals and none decimals.
 
-<li> It performs  Addition, Subtraction, Multiplication and Division only for two numbers.</li>
+- It is more relevant and easy to use and understand for an user.
 
-<li> It is more secure which means you may not enter other anything except the numerical values.</li>
-
-<li> It is more relevant and easy to use and understand for an user.</li>
-</ul>
 
 # Prerequisites
-<ul>
-<li>You need to install python version 3.x. you may download Python version from their official website: ../ https://www.python.org/downloads/<br/></li>
 
+- You need to install [python](https://www.python.org/downloads/) version 3.x
 
-# For Linux
-<li> Clone the repo </li>
+## For Linux
+- Clone the repo
 
 ```bash
-git clone https://github.com/snapcamel/python-calculator
-cd python-calculator
-python3 main.py
+git clone https://github.com/snapcamel/complete-calculator
+cd complete-calculator
+bash script.sh
 ```
 
-# For Windows
-<li> Download gitbash ../ https://git-scm.com/downloads</li>
-<li> Clone the repo</li>
+## For Windows
+- Download and install [gitbash](https://git-scm.com/downloads)
+- Clone the repo
 
 ```bash
-git clone https://github.com/snapcamel/python-calculator
-cd python-calculator
-python3 main.py
+git clone https://github.com/snapcamel/complete-calculator
+cd complete-calculator
+bash script.sh
 ```
 
-# For Mac
-<li> Clone the repo </li>
+## For Mac
+- Clone the repo
 
 
 ```bash
-git clone https://github.com/snapcamel/python-calculator
-cd python-calculator
-python3 main.py
+git clone https://github.com/snapcamel/complete-calculator
+cd complete-calculator
+bash script.sh
 ```
 
 # Built in
-<ul> <li> python 3.x </li></ul>
+- python 3.x
 
 # Author
-<ul><li>Felix Sanchez</li></ul>
+- [Félix Sánchez](https://twitter.com/snapcamel)
