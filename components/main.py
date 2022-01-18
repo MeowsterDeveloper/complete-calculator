@@ -1,9 +1,8 @@
-# Script by Antonio Sànchez.
-# If you liked the script pls give it an star
+# Script by Félix Sánchez hi@snap.camel
 
-# Github: https://github.com/felxansl
-# Stack OverFlow: https://es.stackoverflow.com/users/264900/antonio-s%c3%a1nchez
-# Twitter: https://twitter.com/felxansl
+# Github: https://github.com/snapcamel
+# Twitter: https://twitter.com/snapcamel
+# Instagram: https://instagram.com/snapcamel
 
 # Text colors and stuff
 class color:
@@ -11,7 +10,7 @@ class color:
    YELLOW = '\033[93m'
    RED = '\033[91m'
    END = '\033[0m'
-#========================#
+
 print(" ")
 print(color.YELLOW + """ 
      ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗     ███████╗████████╗███████╗     ██████╗ █████╗ ██╗      ██████╗██╗   ██╗██╗      █████╗ ████████╗ ██████╗ ██████╗ 
@@ -31,7 +30,7 @@ print(color.YELLOW + """
 pick = 0
 while True:
     print(" ")
-    print(color.PURPLE + """
+    print(color.YELLOW + """
    Select a mode
 
   d(  Decimals
